@@ -1,0 +1,21 @@
+{
+  "name": "Aula",
+  "homepage": "https://github.com/matheusbrepohl/aula",
+  "authors": [
+    "matheusbrepohl <matheus@brepohl.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
