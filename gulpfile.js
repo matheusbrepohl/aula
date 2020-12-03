@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var sass = require('gulp-ruby-sass');
+var watch = require('gulp-watch');
 
 
 //task para o sass
