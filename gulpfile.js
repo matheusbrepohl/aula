@@ -9,9 +9,10 @@
 //    return sass('sass/**/*.sass').pipe(gulp.dest('css'));
 //});
 
-const gulp =require('gulp');
-const sass =require('gulp-sass');
-const browserSync =require('browser-sync').create();
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const rubySass = require('gulp-ruby-sass');
+const browserSync = require('browser-sync').create();
 
 function style() {
     return gulp.src('./sass/**/*.sass')
