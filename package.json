@@ -18,6 +18,7 @@
   "homepage": "https://github.com/matheusbrepohl/aula#readme",
   "dependencies": {},
   "devDependencies": {
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-ruby-sass": "^4.0.0",
     "gulp-sass": "^4.1.0",
